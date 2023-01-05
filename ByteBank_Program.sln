@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteBank_Program", "ByteBank_Program\ByteBank_Program.csproj", "{D5B87A1A-522D-4A3E-8AC8-1D2ED06BFB9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Itens da Solução", "Itens da Solução", "{593F855C-A729-4050-97CF-078BADCD5886}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5B87A1A-522D-4A3E-8AC8-1D2ED06BFB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B87A1A-522D-4A3E-8AC8-1D2ED06BFB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B87A1A-522D-4A3E-8AC8-1D2ED06BFB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B87A1A-522D-4A3E-8AC8-1D2ED06BFB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF7885F7-893B-4DE6-BE11-098F67E0AD58}
+	EndGlobalSection
+EndGlobal
